@@ -1,0 +1,6 @@
+.square {
+    width: 100px; /* Lebar persegi */
+    height: 100px; /* Tinggi persegi */
+    background-color: #3498db; /* Warna latar belakang */
+    margin: 20px; /* Jarak dari elemen lain */
+}
